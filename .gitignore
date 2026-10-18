@@ -1,0 +1,11 @@
+# Ferramentas locais
+.claude/
+.impeccable/
+
+# Nunca publicar produtos pagos, scripts ou pacotes
+*.pdf
+!assets/cita-1-gratis.pdf
+*.zip
+*.py
+.DS_Store
+Thumbs.db
